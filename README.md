@@ -22,7 +22,7 @@
 ![Alt text](./img/intro/c-sharp-lang.svg)
 
 ### 📺 Some CSGO Highlight YouTube Videos
-➡️ [click here to watch...](https://youtube.com/codestackr)
+➡️ [click here to watch...](https://www.youtube.com/channel/UCsKiRCHdLZx9NpRxkYRIIlg/videos)
 
 ### Connect with me:
 
