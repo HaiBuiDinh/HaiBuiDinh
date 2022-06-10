@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Kotlin and maybe Flutter 🤣
-- ⚡ Fun fact: I love to read books and play CSGO and League of Legend game with my friends
+- ⚡ Fun fact: Before I became an Android developer, I was a hardware/firmware engineer. I can programing on STM32 series and Arduino as well as ESP series :D
+- 😄 Hobbies: In the free time, I love to read books and play CSGO and League of Legend game with my friends
 
 ### My Github Stats
 ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=HaiBuiDinh&show_icons=true)
