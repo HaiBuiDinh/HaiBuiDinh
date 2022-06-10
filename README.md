@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Kotlin and maybe Flutter 🤣
 - ⚡ Fun fact: Before I became an Android developer, I was a hardware/firmware engineer. I can programing on STM32 series and Arduino as well as ESP series :D
-- 😄 Hobbies: In the free time, I love to read books and play CSGO and League of Legend game with my friends
+- 😄 Hobbies: In the free time, I love to read books and play CSGO and League of Legend game with my friends and Planting trees
 
 ### My Github Stats
 ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=HaiBuiDinh&show_icons=true)
@@ -26,7 +26,6 @@
 ➡️ [click here to watch...](https://www.youtube.com/channel/UCsKiRCHdLZx9NpRxkYRIIlg/videos)
 
 ### Connect with me:
-
 [![website](./img/intro/globe-light.svg)](https://haibuidinh.github.io/)
 [![website](./img/intro/globe-dark.svg)](https://haibuidinh.github.io/)
 &nbsp;&nbsp;
