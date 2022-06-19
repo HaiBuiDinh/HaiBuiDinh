@@ -1,6 +1,6 @@
 # Hi there, I'm Hai Bui
 
-## I am a Developer, Gamer 🤣, and Farmer
+## I am a Developer, Gamer 🤣
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
