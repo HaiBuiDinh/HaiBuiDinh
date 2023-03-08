@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Kotlin and maybe Flutter 🤣
+- 🥅 2023 Goals: Learn more about Kotlin and maybe Flutter 🤣
 - ⚡ Fun fact: Before I became an Android developer, I was a hardware/firmware engineer. I can programing on STM32 series and Arduino as well as ESP series :D
 - 😄 Hobbies: In the free time, I love to read books and play CSGO and League of Legend game with my friends and Planting trees
 
